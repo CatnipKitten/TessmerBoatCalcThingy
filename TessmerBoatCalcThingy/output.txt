@@ -1,0 +1,355 @@
+Input height: 0.1
+Calculated volume: 17.8209539963636
+Total volume: 380.340953996364
+
+Input height: 0.15
+Calculated volume: 26.7314309945455
+Total volume: 389.251430994545
+
+Input height: 0.2
+Calculated volume: 35.6419079927273
+Total volume: 398.161907992727
+
+Input height: 0.25
+Calculated volume: 44.5523849909091
+Total volume: 407.072384990909
+
+Input height: 0.3
+Calculated volume: 53.4628619890909
+Total volume: 415.982861989091
+
+Input height: 0.35
+Calculated volume: 62.3733389872727
+Total volume: 424.893338987273
+
+Input height: 0.4
+Calculated volume: 71.2838159854545
+Total volume: 433.803815985455
+
+Input height: 0.45
+Calculated volume: 80.1942929836364
+Total volume: 442.714292983636
+
+Input height: 0.5
+Calculated volume: 89.1047699818182
+Total volume: 451.624769981818
+
+Input height: 0.55
+Calculated volume: 98.01524698
+Total volume: 460.53524698
+
+Input height: 0.6
+Calculated volume: 106.925723978182
+Total volume: 469.445723978182
+
+Input height: 0.65
+Calculated volume: 115.836200976364
+Total volume: 478.356200976364
+
+Input height: 0.7
+Calculated volume: 124.746677974545
+Total volume: 487.266677974545
+
+Input height: 0.75
+Calculated volume: 133.657154972727
+Total volume: 496.177154972727
+
+Input height: 0.8
+Calculated volume: 142.567631970909
+Total volume: 505.087631970909
+
+Input height: 0.85
+Calculated volume: 151.478108969091
+Total volume: 513.998108969091
+
+Input height: 0.9
+Calculated volume: 160.388585967273
+Total volume: 522.908585967273
+
+Input height: 0.95
+Calculated volume: 169.299062965455
+Total volume: 531.819062965455
+
+Input height: 1
+Calculated volume: 178.209539963636
+Total volume: 540.729539963636
+
+Input height: 1.05
+Calculated volume: 187.120016961818
+Total volume: 549.640016961818
+
+Input height: 1.1
+Calculated volume: 196.03049396
+Total volume: 558.55049396
+
+Input height: 1.15
+Calculated volume: 204.940970958182
+Total volume: 567.460970958182
+
+Input height: 1.2
+Calculated volume: 213.851447956364
+Total volume: 576.371447956364
+
+Input height: 1.25
+Calculated volume: 222.761924954546
+Total volume: 585.281924954546
+
+Input height: 1.3
+Calculated volume: 231.672401952727
+Total volume: 594.192401952727
+
+Input height: 1.35
+Calculated volume: 240.582878950909
+Total volume: 603.102878950909
+
+Input height: 1.4
+Calculated volume: 249.493355949091
+Total volume: 612.013355949091
+
+Input height: 1.45
+Calculated volume: 258.403832947273
+Total volume: 620.923832947273
+
+Input height: 1.5
+Calculated volume: 267.314309945455
+Total volume: 629.834309945455
+
+Input height: 1.55
+Calculated volume: 276.224786943637
+Total volume: 638.744786943636
+
+Input height: 1.6
+Calculated volume: 285.135263941818
+Total volume: 647.655263941818
+
+Input height: 1.65
+Calculated volume: 294.04574094
+Total volume: 656.56574094
+
+Input height: 1.7
+Calculated volume: 302.956217938182
+Total volume: 665.476217938182
+
+Input height: 1.75
+Calculated volume: 311.866694936364
+Total volume: 674.386694936364
+
+Input height: 1.8
+Calculated volume: 320.777171934546
+Total volume: 683.297171934546
+
+Input height: 1.85
+Calculated volume: 329.687648932727
+Total volume: 692.207648932727
+
+Input height: 1.9
+Calculated volume: 338.598125930909
+Total volume: 701.118125930909
+
+Input height: 1.95
+Calculated volume: 347.508602929091
+Total volume: 710.028602929091
+
+Input height: 2
+Calculated volume: 356.419079927273
+Total volume: 718.939079927273
+
+Input height: 2.05
+Calculated volume: 365.329556925455
+Total volume: 727.849556925455
+
+Input height: 2.1
+Calculated volume: 374.240033923636
+Total volume: 736.760033923636
+
+Input height: 2.15
+Calculated volume: 383.150510921818
+Total volume: 745.670510921818
+
+Input height: 2.2
+Calculated volume: 392.06098792
+Total volume: 754.58098792
+
+Input height: 2.25
+Calculated volume: 400.971464918182
+Total volume: 763.491464918182
+
+Input height: 2.3
+Calculated volume: 409.881941916364
+Total volume: 772.401941916364
+
+Input height: 2.35
+Calculated volume: 418.792418914545
+Total volume: 781.312418914545
+
+Input height: 2.4
+Calculated volume: 427.702895912727
+Total volume: 790.222895912727
+
+Input height: 2.45
+Calculated volume: 436.613372910909
+Total volume: 799.133372910909
+
+Input height: 2.5
+Calculated volume: 445.523849909091
+Total volume: 808.043849909091
+
+Input height: 2.55
+Calculated volume: 454.434326907273
+Total volume: 816.954326907273
+
+Input height: 2.6
+Calculated volume: 463.344803905454
+Total volume: 825.864803905454
+
+Input height: 2.65
+Calculated volume: 472.255280903636
+Total volume: 834.775280903636
+
+Input height: 2.7
+Calculated volume: 481.165757901818
+Total volume: 843.685757901818
+
+Input height: 2.75
+Calculated volume: 490.0762349
+Total volume: 852.5962349
+
+Input height: 2.8
+Calculated volume: 498.986711898182
+Total volume: 861.506711898181
+
+Input height: 2.85
+Calculated volume: 507.897188896363
+Total volume: 870.417188896363
+
+Input height: 2.9
+Calculated volume: 516.807665894545
+Total volume: 879.327665894545
+
+Input height: 2.95
+Calculated volume: 525.718142892727
+Total volume: 888.238142892727
+
+Input height: 3
+Calculated volume: 534.628619890909
+Total volume: 897.148619890909
+
+Input height: 3.05
+Calculated volume: 543.539096889091
+Total volume: 906.05909688909
+
+Input height: 3.1
+Calculated volume: 552.449573887272
+Total volume: 914.969573887272
+
+Input height: 3.15
+Calculated volume: 561.360050885454
+Total volume: 923.880050885454
+
+Input height: 3.2
+Calculated volume: 570.270527883636
+Total volume: 932.790527883636
+
+Input height: 3.25
+Calculated volume: 579.181004881818
+Total volume: 941.701004881818
+
+Input height: 3.3
+Calculated volume: 588.091481879999
+Total volume: 950.611481879999
+
+Input height: 3.35
+Calculated volume: 597.001958878181
+Total volume: 959.521958878181
+
+Input height: 3.4
+Calculated volume: 605.912435876363
+Total volume: 968.432435876363
+
+Input height: 3.45
+Calculated volume: 614.822912874545
+Total volume: 977.342912874545
+
+Input height: 3.5
+Calculated volume: 623.733389872727
+Total volume: 986.253389872727
+
+Input height: 3.55
+Calculated volume: 632.643866870908
+Total volume: 995.163866870908
+
+Input height: 3.6
+Calculated volume: 641.55434386909
+Total volume: 1004.07434386909
+
+Input height: 3.65
+Calculated volume: 650.464820867272
+Total volume: 1012.98482086727
+
+Input height: 3.69999999999999
+Calculated volume: 659.375297865454
+Total volume: 1021.89529786545
+
+Input height: 3.74999999999999
+Calculated volume: 668.285774863636
+Total volume: 1030.80577486364
+
+Input height: 3.79999999999999
+Calculated volume: 677.196251861817
+Total volume: 1039.71625186182
+
+Input height: 3.84999999999999
+Calculated volume: 686.106728859999
+Total volume: 1048.62672886
+
+Input height: 3.89999999999999
+Calculated volume: 695.017205858181
+Total volume: 1057.53720585818
+
+Input height: 3.94999999999999
+Calculated volume: 703.927682856363
+Total volume: 1066.44768285636
+
+Input height: 3.99999999999999
+Calculated volume: 712.838159854544
+Total volume: 1075.35815985454
+
+Input height: 4.04999999999999
+Calculated volume: 721.748636852726
+Total volume: 1084.26863685273
+
+Input height: 4.09999999999999
+Calculated volume: 730.659113850908
+Total volume: 1093.17911385091
+
+Input height: 4.14999999999999
+Calculated volume: 739.56959084909
+Total volume: 1102.08959084909
+
+Input height: 4.19999999999999
+Calculated volume: 748.480067847272
+Total volume: 1111.00006784727
+
+Input height: 4.24999999999999
+Calculated volume: 757.390544845453
+Total volume: 1119.91054484545
+
+Input height: 4.29999999999999
+Calculated volume: 766.301021843635
+Total volume: 1128.82102184364
+
+Input height: 4.34999999999999
+Calculated volume: 775.211498841817
+Total volume: 1137.73149884182
+
+Input height: 4.39999999999999
+Calculated volume: 784.121975839999
+Total volume: 1146.64197584
+
+Input height: 4.44999999999999
+Calculated volume: 793.03245283818
+Total volume: 1155.55245283818
+
+Input height: 4.49999999999999
+Calculated volume: 801.942929836362
+Total volume: 1164.46292983636
